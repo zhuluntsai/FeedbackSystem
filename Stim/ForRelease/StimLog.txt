@@ -1,0 +1,1429 @@
+
+ [Log: 2022-11-06 14:53:32.696281] 
+2022-11-06 14:53:32.696281 -> Serial comm open mode successfully activated. 
+2022-11-06 14:53:32.696281 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2022-11-06 14:53:36.023954 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-06 14:53:36.023954 -> Stimulation mode. Freq: 10[Hz]
+2022-11-06 14:53:37.280351 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-06 14:53:37.280351 -> Stimulation mode. Freq: 15[Hz]
+2022-11-06 14:53:38.032435 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-06 14:53:38.032435 -> Stimulation mode. Freq: 20[Hz]
+2022-11-06 14:53:38.456367 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-06 14:53:38.456367 -> Stimulation mode. Freq: 25[Hz]
+2022-11-06 14:53:38.743791 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-06 14:53:38.743791 -> Stimulation mode. Freq: 30[Hz]
+2022-11-06 14:53:39.808552 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-06 14:53:39.808552 -> Stimulation mode. Freq: 25[Hz]
+2022-11-06 14:53:40.016499 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-06 14:53:40.016499 -> Stimulation mode. Freq: 20[Hz]
+2022-11-06 14:53:40.312424 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-06 14:53:40.312424 -> Stimulation mode. Freq: 15[Hz]
+2022-11-06 14:53:41.031532 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-06 14:53:41.031532 -> Stimulation mode. Freq: 0[Hz]
+2022-11-06 14:53:41.543988 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2022-11-17 16:36:47.616129] 
+2022-11-17 16:36:47.616129 -> Serial comm open failed. 
+
+ [Log: 2022-11-22 17:34:07.385308] 
+2022-11-22 17:34:07.385308 -> Serial comm open failed. 
+
+ [Log: 2022-11-22 17:35:33.112869] 
+2022-11-22 17:35:33.112869 -> Serial comm open mode successfully activated. 
+2022-11-22 17:35:33.112869 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2022-11-22 17:35:39.120207 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:35:39.120207 -> Stimulation mode. Freq: 0[Hz]
+2022-11-22 17:36:32.625857 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:36:32.625857 -> Stimulation mode. Freq: 0[Hz]
+2022-11-22 17:36:33.137252 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:36:33.137252 -> Stimulation mode. Freq: 0[Hz]
+2022-11-22 17:36:33.689589 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:36:33.689589 -> Stimulation mode. Freq: 0[Hz]
+2022-11-22 17:42:33.600537 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:42:33.600537 -> Stimulation mode. Freq: 0[Hz]
+2022-11-22 17:42:34.202650 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2022-11-22 17:43:32.176730] 
+2022-11-22 17:43:32.176730 -> Serial comm open mode successfully activated. 
+2022-11-22 17:43:32.176730 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2022-11-22 17:43:35.735643 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:43:35.735643 -> Stimulation mode. Freq: 10[Hz]
+2022-11-22 17:43:38.536432 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:43:38.536432 -> Stimulation mode. Freq: 15[Hz]
+2022-11-22 17:43:38.872867 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:43:38.872867 -> Stimulation mode. Freq: 20[Hz]
+2022-11-22 17:45:00.944776 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:45:00.944776 -> Stimulation mode. Freq: 25[Hz]
+2022-11-22 17:45:01.999605 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:45:01.999605 -> Stimulation mode. Freq: 30[Hz]
+2022-11-22 17:45:02.664514 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:45:02.664514 -> Stimulation mode. Freq: 35[Hz]
+2022-11-22 17:45:03.160697 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:45:03.160697 -> Stimulation mode. Freq: 40[Hz]
+2022-11-22 17:45:03.488206 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:45:03.488206 -> Stimulation mode. Freq: 45[Hz]
+2022-11-22 17:45:03.847520 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:45:03.847520 -> Stimulation mode. Freq: 50[Hz]
+2022-11-22 17:45:04.103502 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:45:04.103502 -> Stimulation mode. Freq: 55[Hz]
+2022-11-22 17:45:04.392262 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:45:04.392262 -> Stimulation mode. Freq: 60[Hz]
+2022-11-22 17:45:04.688025 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:45:04.688025 -> Stimulation mode. Freq: 65[Hz]
+2022-11-22 17:45:04.968316 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:45:04.968316 -> Stimulation mode. Freq: 70[Hz]
+2022-11-22 17:45:05.216401 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:45:05.216401 -> Stimulation mode. Freq: 75[Hz]
+2022-11-22 17:45:05.512624 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:45:05.512624 -> Stimulation mode. Freq: 80[Hz]
+2022-11-22 17:45:05.759986 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:45:05.759986 -> Stimulation mode. Freq: 85[Hz]
+2022-11-22 17:45:06.000766 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:45:06.000766 -> Stimulation mode. Freq: 90[Hz]
+2022-11-22 17:45:06.240047 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:45:06.240047 -> Stimulation mode. Freq: 95[Hz]
+2022-11-22 17:45:06.536094 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:45:06.536094 -> Stimulation mode. Freq: 100[Hz]
+2022-11-22 17:45:09.169541 -> Stimulation mode. Freq calculator successfully loaded. 
+2022-11-22 17:45:09.169541 -> Stimulation mode. Freq: 95[Hz]
+2022-11-22 17:46:06.471593 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-14 16:25:39.367099] 
+2023-02-14 16:25:39.367099 -> Serial comm open failed. 
+
+ [Log: 2023-02-14 16:27:12.686244] 
+2023-02-14 16:27:12.686244 -> Serial comm open mode successfully activated. 
+2023-02-14 16:27:12.686244 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-14 16:27:14.927256 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:27:14.927256 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 16:27:21.062588 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:27:21.062588 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 16:27:21.647996 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:27:21.647996 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 16:27:48.007537 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:27:48.007537 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 16:27:48.792413 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:27:48.792413 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 16:27:49.383686 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:27:49.383686 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 16:27:49.936325 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:27:49.936325 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 16:27:50.263387 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:27:50.263387 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 16:27:51.535756 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:27:51.535756 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 16:27:51.726699 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:27:51.726699 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 16:27:52.926349 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:27:52.926349 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 16:27:53.110988 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:27:53.110988 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 16:27:53.287997 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:27:53.287997 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 16:27:53.495603 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:27:53.495603 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 16:27:53.727283 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:27:53.727283 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 16:27:53.919823 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:27:53.919823 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 16:27:54.447207 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:27:54.447207 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 16:27:55.808135 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:27:55.808135 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 16:27:56.271689 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-14 16:29:01.312536] 
+2023-02-14 16:29:01.312536 -> Serial comm open mode successfully activated. 
+2023-02-14 16:29:01.312536 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-14 16:29:05.439453 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:29:05.439453 -> Stimulation mode. Freq: 10[Hz]
+2023-02-14 16:29:11.896052 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:29:11.896052 -> Stimulation mode. Freq: 15[Hz]
+2023-02-14 16:29:12.639665 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:29:12.639665 -> Stimulation mode. Freq: 20[Hz]
+2023-02-14 16:29:13.256227 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:29:13.256227 -> Stimulation mode. Freq: 25[Hz]
+2023-02-14 16:29:13.744527 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:29:13.744527 -> Stimulation mode. Freq: 30[Hz]
+2023-02-14 16:29:14.151388 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:29:14.151388 -> Stimulation mode. Freq: 35[Hz]
+2023-02-14 16:29:14.647230 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:29:14.647230 -> Stimulation mode. Freq: 40[Hz]
+2023-02-14 16:29:15.094950 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:29:15.094950 -> Stimulation mode. Freq: 45[Hz]
+2023-02-14 16:29:15.567293 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:29:15.567293 -> Stimulation mode. Freq: 50[Hz]
+2023-02-14 16:29:16.863886 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:29:16.863886 -> Stimulation mode. Freq: 55[Hz]
+2023-02-14 16:29:17.887874 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:29:17.887874 -> Stimulation mode. Freq: 60[Hz]
+2023-02-14 16:31:01.608565 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:01.608565 -> Stimulation mode. Freq: 65[Hz]
+2023-02-14 16:31:02.280462 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:02.280462 -> Stimulation mode. Freq: 70[Hz]
+2023-02-14 16:31:02.879235 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:02.879235 -> Stimulation mode. Freq: 75[Hz]
+2023-02-14 16:31:03.599406 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:03.599406 -> Stimulation mode. Freq: 80[Hz]
+2023-02-14 16:31:05.049555 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:05.049555 -> Stimulation mode. Freq: 85[Hz]
+2023-02-14 16:31:05.568459 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:05.568459 -> Stimulation mode. Freq: 90[Hz]
+2023-02-14 16:31:06.080156 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:06.080156 -> Stimulation mode. Freq: 95[Hz]
+2023-02-14 16:31:08.232169 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:08.232169 -> Stimulation mode. Freq: 90[Hz]
+2023-02-14 16:31:08.497685 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:08.497685 -> Stimulation mode. Freq: 85[Hz]
+2023-02-14 16:31:08.760006 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:08.760006 -> Stimulation mode. Freq: 80[Hz]
+2023-02-14 16:31:08.975942 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:08.975942 -> Stimulation mode. Freq: 75[Hz]
+2023-02-14 16:31:09.183684 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:09.183684 -> Stimulation mode. Freq: 70[Hz]
+2023-02-14 16:31:09.367621 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:09.367621 -> Stimulation mode. Freq: 65[Hz]
+2023-02-14 16:31:09.592352 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:09.592352 -> Stimulation mode. Freq: 60[Hz]
+2023-02-14 16:31:09.790992 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:09.790992 -> Stimulation mode. Freq: 55[Hz]
+2023-02-14 16:31:10.000115 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:10.000115 -> Stimulation mode. Freq: 50[Hz]
+2023-02-14 16:31:10.207480 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:10.207480 -> Stimulation mode. Freq: 45[Hz]
+2023-02-14 16:31:10.399143 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:10.399143 -> Stimulation mode. Freq: 40[Hz]
+2023-02-14 16:31:10.608236 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:10.608236 -> Stimulation mode. Freq: 35[Hz]
+2023-02-14 16:31:10.830919 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:10.830919 -> Stimulation mode. Freq: 30[Hz]
+2023-02-14 16:31:11.039924 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:11.039924 -> Stimulation mode. Freq: 25[Hz]
+2023-02-14 16:31:11.271372 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:11.271372 -> Stimulation mode. Freq: 20[Hz]
+2023-02-14 16:31:11.495190 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:11.495190 -> Stimulation mode. Freq: 15[Hz]
+2023-02-14 16:31:11.738240 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:11.738240 -> Stimulation mode. Freq: 10[Hz]
+2023-02-14 16:31:11.928218 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:11.928218 -> Stimulation mode. Freq: 10[Hz]
+2023-02-14 16:31:12.431305 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:12.431305 -> Stimulation mode. Freq: 10[Hz]
+2023-02-14 16:31:13.575924 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 16:31:13.575924 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 16:31:14.223510 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-14 17:00:02.929250] 
+2023-02-14 17:00:02.929250 -> Serial comm open mode successfully activated. 
+2023-02-14 17:00:02.929250 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-14 17:00:07.127625 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 17:00:07.127625 -> Stimulation mode. Freq: 10[Hz]
+2023-02-14 17:00:10.034045 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 17:00:10.034045 -> Stimulation mode. Freq: 15[Hz]
+2023-02-14 17:00:10.448857 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 17:00:10.448857 -> Stimulation mode. Freq: 20[Hz]
+2023-02-14 17:00:10.960670 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 17:00:10.960670 -> Stimulation mode. Freq: 25[Hz]
+2023-02-14 17:00:11.375905 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 17:00:11.375905 -> Stimulation mode. Freq: 30[Hz]
+2023-02-14 17:00:11.905241 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 17:00:11.905241 -> Stimulation mode. Freq: 35[Hz]
+2023-02-14 17:00:12.552759 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 17:00:12.552759 -> Stimulation mode. Freq: 40[Hz]
+2023-02-14 17:00:12.890054 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 17:00:12.890054 -> Stimulation mode. Freq: 45[Hz]
+2023-02-14 17:00:13.258737 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 17:00:13.258737 -> Stimulation mode. Freq: 50[Hz]
+2023-02-14 17:00:13.775577 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 17:00:13.775577 -> Stimulation mode. Freq: 55[Hz]
+2023-02-14 17:00:14.887916 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 17:00:14.887916 -> Stimulation mode. Freq: 60[Hz]
+2023-02-14 17:00:15.744530 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 17:00:15.744530 -> Stimulation mode. Freq: 65[Hz]
+2023-02-14 17:00:18.496324 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 17:00:18.496324 -> Stimulation mode. Freq: 0[Hz]
+2023-02-14 17:00:21.385019 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-14 22:05:34.882051] 
+2023-02-14 22:05:34.882051 -> Serial comm open mode successfully activated. 
+2023-02-14 22:05:34.882051 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-14 22:05:36.691309 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:36.750193 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:36.812574 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:36.873784 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:36.935523 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:36.998008 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:37.059075 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:37.121492 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:37.183306 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:37.244950 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:37.305981 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:37.367812 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:37.430222 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:37.492799 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:37.555865 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:37.617011 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:37.679834 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:37.739847 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:37.803786 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:37.867896 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:05:58.747990 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-14 22:06:07.218274] 
+2023-02-14 22:06:07.218274 -> Serial comm open mode successfully activated. 
+2023-02-14 22:06:07.218274 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-14 22:06:07.734129 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:06:07.792145 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:06:07.855904 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:06:07.917912 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:06:07.980766 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:06:08.044361 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:06:08.104735 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:06:08.167627 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:06:08.229041 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:06:08.290035 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:06:08.351913 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:06:08.411916 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:06:08.473829 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:06:08.535559 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:06:08.597024 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:06:08.667876 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:06:08.720270 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:06:08.781871 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:06:08.859192 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:06:08.921015 -> Standby mode activated. Freq: 0[Hz]
+
+ [Log: 2023-02-14 22:43:39.092262] 
+2023-02-14 22:43:39.092262 -> Serial comm open mode successfully activated. 
+2023-02-14 22:43:39.092262 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-14 22:43:41.012682 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:41.076653 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:41.136147 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:41.199557 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:41.262153 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:41.323355 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:41.386365 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:41.449275 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:41.512627 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:41.573947 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:41.635115 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:41.697469 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:41.758688 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:41.821385 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:41.884478 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:41.945371 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:42.006696 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:42.069016 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:42.131184 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:42.192417 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:43:49.349144 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 22:43:51.189008 -> Stimulation mode. Freq calculator successfully loaded. 
+
+ [Log: 2023-02-14 22:45:33.115693] 
+2023-02-14 22:45:33.115693 -> Serial comm open mode successfully activated. 
+2023-02-14 22:45:33.115693 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-14 22:45:33.641457 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:33.696349 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:33.757654 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:33.820530 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:33.884429 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:33.947003 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:34.008446 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:34.069336 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:34.131495 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:34.195148 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:34.255181 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:34.317111 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:34.379201 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:34.443148 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:34.503302 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:34.565753 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:34.627439 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:34.690124 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:34.751909 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:34.816655 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:45:37.197040 -> Stimulation mode. Freq calculator successfully loaded. 
+
+ [Log: 2023-02-14 22:51:15.790786] 
+2023-02-14 22:51:15.790786 -> Serial comm open mode successfully activated. 
+2023-02-14 22:51:15.790786 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-14 22:51:16.772477 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:16.826488 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:16.887704 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:16.952464 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:17.015603 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:17.080298 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:17.141798 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:17.201764 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:17.270475 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:17.328642 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:17.389021 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:17.449615 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:17.513044 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:17.578745 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:17.643052 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:17.700336 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:17.763964 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:17.825535 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:17.884604 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:17.950441 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:51:34.467495 -> Stimulation mode. Freq calculator successfully loaded. 
+
+ [Log: 2023-02-14 22:52:20.665885] 
+2023-02-14 22:52:20.665885 -> Serial comm open mode successfully activated. 
+2023-02-14 22:52:20.665885 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-14 22:52:21.188825 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:21.264955 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:21.326920 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:21.392531 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:21.469692 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:21.541746 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:21.598504 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:21.661645 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:21.726746 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:21.787535 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:21.853031 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:21.913004 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:21.975616 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:22.038772 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:22.113926 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:22.178476 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:22.241591 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:22.301347 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:22.362311 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:22.426389 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:52:29.111816 -> Stimulation mode. Freq calculator successfully loaded. 
+
+ [Log: 2023-02-14 22:55:38.067016] 
+2023-02-14 22:55:38.067016 -> Serial comm open mode successfully activated. 
+2023-02-14 22:55:38.067016 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-14 22:55:38.587920 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:55:38.653920 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:55:38.716369 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:55:38.776627 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:55:38.842771 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:55:38.903718 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:55:38.966494 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:55:39.027365 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:55:39.090725 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:55:39.151748 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:55:39.211986 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:55:39.272669 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:55:39.337945 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:55:39.403993 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:55:39.464120 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:55:39.522535 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:55:39.586110 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:55:39.647533 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:55:39.711575 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:55:39.771777 -> Standby mode activated. Freq: 0[Hz]
+
+ [Log: 2023-02-14 22:56:14.508809] 
+2023-02-14 22:56:14.508809 -> Serial comm open mode successfully activated. 
+2023-02-14 22:56:14.508809 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-14 22:56:15.032738 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:15.099685 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:15.160812 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:15.225964 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:15.287766 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:15.354174 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:15.423906 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:15.487573 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:15.545987 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:15.608717 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:15.667727 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:15.732651 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:15.793004 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:15.854998 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:15.929338 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:15.999548 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:16.060637 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:16.131750 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:16.199917 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:16.265148 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:56:17.521294 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 22:56:17.521294 -> Stimulation mode. Freq: 50[Hz]
+
+ [Log: 2023-02-14 22:58:59.089225] 
+2023-02-14 22:58:59.089225 -> Serial comm open mode successfully activated. 
+2023-02-14 22:58:59.089225 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-14 22:58:59.610675 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:58:59.668656 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:58:59.734628 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:58:59.794936 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:58:59.856312 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:58:59.919766 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:58:59.980665 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:59:00.041707 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:59:00.103631 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:59:00.166963 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:59:00.226093 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:59:00.290034 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:59:00.352857 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:59:00.415861 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:59:00.480682 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:59:00.541003 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:59:00.607723 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:59:00.669874 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:59:00.727666 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:59:00.789845 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 22:59:04.577933 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 22:59:04.577933 -> Stimulation mode. Freq: 50[Hz]
+2023-02-14 22:59:05.890860 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 22:59:05.890860 -> Stimulation mode. Freq: 40[Hz]
+2023-02-14 22:59:06.866369 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 22:59:06.866369 -> Stimulation mode. Freq: 30[Hz]
+2023-02-14 22:59:07.797122 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 22:59:07.797122 -> Stimulation mode. Freq: 20[Hz]
+2023-02-14 22:59:08.778786 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 22:59:08.778786 -> Stimulation mode. Freq: 10[Hz]
+
+ [Log: 2023-02-14 23:00:17.319905] 
+2023-02-14 23:00:17.319905 -> Serial comm open mode successfully activated. 
+2023-02-14 23:00:17.319905 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-14 23:00:17.849224 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:17.914770 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:17.976965 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:18.039144 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:18.102997 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:18.163995 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:18.223810 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:18.286892 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:18.350989 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:18.414875 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:18.478905 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:18.543858 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:18.608246 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:18.667646 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:18.730767 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:18.792126 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:18.852071 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:18.912701 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:18.975417 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:19.037889 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:20.520184 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:00:20.520184 -> Stimulation mode. Freq: 50[Hz]
+2023-02-14 23:00:21.578877 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:00:21.578877 -> Stimulation mode. Freq: 40[Hz]
+2023-02-14 23:00:22.472935 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:00:22.472935 -> Stimulation mode. Freq: 30[Hz]
+2023-02-14 23:00:23.434873 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:00:23.434873 -> Stimulation mode. Freq: 20[Hz]
+2023-02-14 23:00:24.353822 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:00:24.353822 -> Stimulation mode. Freq: 10[Hz]
+2023-02-14 23:00:25.405887 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:00:25.405887 -> Stimulation mode. Freq: 70[Hz]
+2023-02-14 23:00:25.466083 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-14 23:00:32.339227] 
+2023-02-14 23:00:32.339227 -> Serial comm open mode successfully activated. 
+2023-02-14 23:00:32.339227 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-14 23:00:32.861196 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:32.928162 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:32.989839 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:33.051831 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:33.121799 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:33.192107 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:33.252208 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:33.313703 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:33.375893 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:33.438780 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:33.503045 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:33.564867 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:33.625719 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:33.686735 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:33.751710 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:33.812651 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:33.881151 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:33.941091 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:34.001146 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:34.059733 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:00:34.126093 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:00:34.126093 -> Stimulation mode. Freq: 20[Hz]
+2023-02-14 23:00:35.575968 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:00:35.575968 -> Stimulation mode. Freq: 30[Hz]
+2023-02-14 23:00:36.780397 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:00:36.780397 -> Stimulation mode. Freq: 40[Hz]
+2023-02-14 23:00:38.170961 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:00:38.170961 -> Stimulation mode. Freq: 50[Hz]
+2023-02-14 23:00:39.264580 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:00:39.264580 -> Stimulation mode. Freq: 60[Hz]
+
+ [Log: 2023-02-14 23:07:28.786115] 
+2023-02-14 23:07:28.786115 -> Serial comm open mode successfully activated. 
+2023-02-14 23:07:28.786115 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-14 23:07:29.775398 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:29.839987 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:29.904496 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:29.965084 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:30.026001 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:30.088454 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:30.150617 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:30.210535 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:30.273149 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:30.334987 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:30.398084 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:30.460482 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:30.522971 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:30.585054 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:30.645206 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:30.709586 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:30.770304 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:30.834172 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:30.893724 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:30.957200 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:33.337034 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:07:33.337034 -> Stimulation mode. Freq: 70[Hz]
+2023-02-14 23:07:35.688551 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:07:35.688551 -> Stimulation mode. Freq: 55[Hz]
+2023-02-14 23:07:36.297092 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:07:36.297092 -> Stimulation mode. Freq: 40[Hz]
+2023-02-14 23:07:36.794075 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:07:36.794075 -> Stimulation mode. Freq: 25[Hz]
+2023-02-14 23:07:37.247487 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:07:37.247487 -> Stimulation mode. Freq: 10[Hz]
+2023-02-14 23:07:37.642109 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:07:37.642109 -> Stimulation mode. Freq: 100[Hz]
+2023-02-14 23:07:37.703848 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-14 23:07:44.316353] 
+2023-02-14 23:07:44.316353 -> Serial comm open mode successfully activated. 
+2023-02-14 23:07:44.316353 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-14 23:07:44.832786 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:44.893110 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:44.953178 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:45.017475 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:45.083239 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:45.140579 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:45.205650 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:45.266518 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:45.327228 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:45.388002 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:45.453892 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:45.512827 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:45.575658 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:45.638318 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:45.699119 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:45.763177 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:45.823958 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:45.886898 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:45.947853 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:46.009876 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:07:49.809095 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:07:49.809095 -> Stimulation mode. Freq: 25[Hz]
+2023-02-14 23:07:56.183961 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:07:56.183961 -> Stimulation mode. Freq: 40[Hz]
+2023-02-14 23:07:57.241707 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:07:57.241707 -> Stimulation mode. Freq: 55[Hz]
+2023-02-14 23:07:57.982070 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:07:57.982070 -> Stimulation mode. Freq: 70[Hz]
+2023-02-14 23:07:58.623246 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:07:58.623246 -> Stimulation mode. Freq: 85[Hz]
+2023-02-14 23:07:59.320989 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:07:59.320989 -> Stimulation mode. Freq: 100[Hz]
+2023-02-14 23:08:00.031232 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:08:00.031232 -> Stimulation mode. Freq: 100[Hz]
+2023-02-14 23:08:00.095424 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-14 23:08:22.025755] 
+2023-02-14 23:08:22.025755 -> Serial comm open mode successfully activated. 
+2023-02-14 23:08:22.025755 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-14 23:08:22.545248 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:22.603026 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:22.665072 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:22.726946 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:22.792403 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:22.851368 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:22.912097 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:22.975637 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:23.040088 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:23.096153 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:23.159929 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:23.226870 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:23.284941 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:23.347114 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:23.410408 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:23.471965 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:23.536273 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:23.597523 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:23.656915 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:23.719157 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:08:25.418050 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:08:25.418050 -> Stimulation mode. Freq: 85[Hz]
+2023-02-14 23:08:31.129294 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:08:31.129294 -> Stimulation mode. Freq: 70[Hz]
+2023-02-14 23:08:32.250678 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:08:32.250678 -> Stimulation mode. Freq: 55[Hz]
+2023-02-14 23:08:35.210045 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:08:35.210045 -> Stimulation mode. Freq: 40[Hz]
+2023-02-14 23:08:37.681099 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:08:37.681099 -> Stimulation mode. Freq: 25[Hz]
+2023-02-14 23:08:38.759209 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:08:38.759209 -> Stimulation mode. Freq: 10[Hz]
+2023-02-14 23:08:40.619167 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:08:40.619167 -> Stimulation mode. Freq: 100[Hz]
+2023-02-14 23:08:40.680331 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-14 23:14:04.110117] 
+2023-02-14 23:14:04.110117 -> Serial comm open mode successfully activated. 
+2023-02-14 23:14:04.110117 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-14 23:14:04.625115 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:04.682469 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:04.744062 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:04.805831 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:04.868154 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:04.938887 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:04.992757 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:05.055307 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:05.119191 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:05.179396 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:05.240488 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:05.304144 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:05.368082 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:05.430522 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:05.493738 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:05.557938 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:05.616836 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:05.678433 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:05.740585 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:05.803173 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:14:07.045407 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:14:07.045407 -> Stimulation mode. Freq: 70[Hz]
+2023-02-14 23:14:09.726658 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:14:09.726658 -> Stimulation mode. Freq: 55[Hz]
+2023-02-14 23:14:10.589736 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:14:10.589736 -> Stimulation mode. Freq: 40[Hz]
+2023-02-14 23:14:11.501287 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:14:11.501287 -> Stimulation mode. Freq: 25[Hz]
+2023-02-14 23:14:12.957579 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:14:12.957579 -> Stimulation mode. Freq: 10[Hz]
+2023-02-14 23:14:18.205133 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:14:18.205133 -> Stimulation mode. Freq: 25[Hz]
+2023-02-14 23:14:19.109412 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:14:19.109412 -> Stimulation mode. Freq: 40[Hz]
+2023-02-14 23:14:19.773494 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:14:19.773494 -> Stimulation mode. Freq: 55[Hz]
+2023-02-14 23:14:20.573494 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:14:20.573494 -> Stimulation mode. Freq: 70[Hz]
+2023-02-14 23:14:21.350536 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:14:21.350536 -> Stimulation mode. Freq: 85[Hz]
+2023-02-14 23:14:22.134168 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:14:22.134168 -> Stimulation mode. Freq: 100[Hz]
+2023-02-14 23:15:21.814556 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:15:21.814556 -> Stimulation mode. Freq: 85[Hz]
+2023-02-14 23:15:22.926967 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:15:22.926967 -> Stimulation mode. Freq: 70[Hz]
+2023-02-14 23:15:23.967141 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:15:23.967141 -> Stimulation mode. Freq: 55[Hz]
+2023-02-14 23:15:24.949606 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:15:24.949606 -> Stimulation mode. Freq: 40[Hz]
+2023-02-14 23:15:25.733857 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:15:25.733857 -> Stimulation mode. Freq: 25[Hz]
+2023-02-14 23:15:29.926926 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:15:29.926926 -> Stimulation mode. Freq: 10[Hz]
+2023-02-14 23:15:30.717457 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:15:30.717457 -> Stimulation mode. Freq: 100[Hz]
+2023-02-14 23:15:30.780175 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-14 23:17:43.197015] 
+2023-02-14 23:17:43.197015 -> Serial comm open mode successfully activated. 
+2023-02-14 23:17:43.197015 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-14 23:17:43.731377 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:43.795113 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:43.859028 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:43.920012 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:43.983329 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:44.044066 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:44.107516 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:44.169104 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:44.229080 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:44.292027 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:44.353774 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:44.416731 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:44.478069 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:44.539227 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:44.601319 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:44.663615 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:44.726196 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:44.788430 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:44.850052 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:44.913140 -> Standby mode activated. Freq: 0[Hz]
+2023-02-14 23:17:45.374124 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:17:45.374124 -> Stimulation mode. Freq: 70[Hz]
+2023-02-14 23:18:11.444911 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:18:11.444911 -> Stimulation mode. Freq: 55[Hz]
+2023-02-14 23:18:13.509708 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:18:13.509708 -> Stimulation mode. Freq: 40[Hz]
+2023-02-14 23:18:15.709770 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:18:15.709770 -> Stimulation mode. Freq: 25[Hz]
+2023-02-14 23:18:55.326410 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:18:55.326410 -> Stimulation mode. Freq: 10[Hz]
+2023-02-14 23:19:02.245709 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-14 23:19:02.245709 -> Stimulation mode. Freq: 100[Hz]
+2023-02-14 23:19:02.300327 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-15 08:18:48.061799] 
+2023-02-15 08:18:48.061799 -> Serial comm open mode successfully activated. 
+2023-02-15 08:18:48.061799 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 08:18:49.039108 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:18:49.092670 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:18:49.154704 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:18:49.217594 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:18:49.278867 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:18:49.339834 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:18:49.402048 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:18:49.464660 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:18:49.526598 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:18:49.591341 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:18:49.649400 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:18:49.711849 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:18:49.775847 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:18:49.836789 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:18:49.896606 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:18:49.961797 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:18:50.022746 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:18:50.085129 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:18:50.146981 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:18:50.209314 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:19:19.692506 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:19:19.692506 -> Stimulation mode. Freq: 100[Hz]
+2023-02-15 08:19:31.042183 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:19:31.042183 -> Stimulation mode. Freq: 10[Hz]
+2023-02-15 08:19:31.105281 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-15 08:22:30.914340] 
+2023-02-15 08:22:30.914340 -> Serial comm open mode successfully activated. 
+2023-02-15 08:22:30.914340 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 08:22:31.831123 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:31.892140 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:31.952729 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:32.016367 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:32.078192 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:32.141923 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:32.202636 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:32.265621 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:32.327876 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:32.392082 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:32.453598 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:32.515495 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:32.577558 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:32.639655 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:32.700190 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:32.761830 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:32.826077 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:32.886174 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:32.948057 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:33.011350 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:34.706443 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:22:34.706443 -> Stimulation mode. Freq: 70[Hz]
+2023-02-15 08:22:37.970994 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:22:37.970994 -> Stimulation mode. Freq: 55[Hz]
+2023-02-15 08:22:39.013611 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:22:39.013611 -> Stimulation mode. Freq: 40[Hz]
+2023-02-15 08:22:40.161994 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:22:40.161994 -> Stimulation mode. Freq: 25[Hz]
+2023-02-15 08:22:41.035015 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:22:41.035015 -> Stimulation mode. Freq: 10[Hz]
+2023-02-15 08:22:42.674200 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:22:42.674200 -> Stimulation mode. Freq: 0[Hz]
+2023-02-15 08:22:42.743090 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-15 08:22:48.739408] 
+2023-02-15 08:22:48.739408 -> Serial comm open mode successfully activated. 
+2023-02-15 08:22:48.739408 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 08:22:49.256163 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:49.317953 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:49.380748 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:49.441382 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:49.503127 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:49.564908 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:49.627228 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:49.688844 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:49.751485 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:49.813824 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:49.875625 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:49.937675 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:49.998871 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:50.061613 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:50.124841 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:50.185551 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:50.248103 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:50.309084 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:50.376923 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:50.433899 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:22:51.497384 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:22:51.497384 -> Stimulation mode. Freq: 25[Hz]
+2023-02-15 08:22:52.884831 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:22:52.884831 -> Stimulation mode. Freq: 40[Hz]
+2023-02-15 08:22:54.000055 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:22:54.000055 -> Stimulation mode. Freq: 55[Hz]
+2023-02-15 08:22:55.225753 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:22:55.225753 -> Stimulation mode. Freq: 70[Hz]
+2023-02-15 08:22:56.683986 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:22:56.683986 -> Stimulation mode. Freq: 85[Hz]
+2023-02-15 08:22:57.897169 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:22:57.897169 -> Stimulation mode. Freq: 100[Hz]
+2023-02-15 08:23:02.581791 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:23:02.581791 -> Stimulation mode. Freq: 0[Hz]
+2023-02-15 08:23:02.640759 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-15 08:23:23.318834] 
+2023-02-15 08:23:23.318834 -> Serial comm open mode successfully activated. 
+2023-02-15 08:23:23.318834 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 08:23:23.847794 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:23.905423 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:23.968835 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:24.031525 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:24.093987 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:24.157601 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:24.218604 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:24.280542 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:24.343250 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:24.405685 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:24.466653 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:24.528144 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:24.590101 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:24.653584 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:24.716252 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:24.779547 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:24.840585 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:24.901272 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:24.963086 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:25.024596 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:26.025096 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:23:26.025096 -> Stimulation mode. Freq: 70[Hz]
+2023-02-15 08:23:27.185021 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:23:27.185021 -> Stimulation mode. Freq: 55[Hz]
+2023-02-15 08:23:28.108320 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:23:28.108320 -> Stimulation mode. Freq: 40[Hz]
+2023-02-15 08:23:29.041318 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:23:29.041318 -> Stimulation mode. Freq: 25[Hz]
+2023-02-15 08:23:29.876578 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:23:29.876578 -> Stimulation mode. Freq: 10[Hz]
+2023-02-15 08:23:31.300629 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:23:31.300629 -> Stimulation mode. Freq: 0[Hz]
+2023-02-15 08:23:31.352651 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-15 08:23:36.274177] 
+2023-02-15 08:23:36.274177 -> Serial comm open mode successfully activated. 
+2023-02-15 08:23:36.274177 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 08:23:36.795804 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:36.855895 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:36.917094 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:36.979985 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:37.043971 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:37.106746 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:37.167597 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:37.229798 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:37.292632 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:37.354468 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:37.414610 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:37.476638 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:37.539897 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:37.602712 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:37.665576 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:37.725977 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:37.787681 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:37.850870 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:37.913599 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:37.975932 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:38.041465 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:23:38.041465 -> Stimulation mode. Freq: 25[Hz]
+
+ [Log: 2023-02-15 08:23:53.913060] 
+2023-02-15 08:23:53.913060 -> Serial comm open mode successfully activated. 
+2023-02-15 08:23:53.913060 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 08:23:54.445149 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:54.510754 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:54.574634 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:54.634120 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:54.696088 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:54.757715 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:54.819396 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:54.881277 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:54.943948 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:55.006768 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:55.069885 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:55.131867 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:55.193463 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:55.256717 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:55.318783 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:55.380847 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:55.442791 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:55.506173 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:55.567754 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:23:55.631286 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:20.117775 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:24:20.117775 -> Stimulation mode. Freq: 70[Hz]
+
+ [Log: 2023-02-15 08:24:27.011502] 
+2023-02-15 08:24:27.011502 -> Serial comm open mode successfully activated. 
+2023-02-15 08:24:27.011502 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 08:24:27.538635 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:27.592765 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:27.655673 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:27.717905 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:27.780702 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:27.840895 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:27.903592 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:27.966095 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:28.029489 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:28.090930 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:28.152675 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:28.215773 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:28.276583 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:28.337597 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:28.400086 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:28.460888 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:28.524184 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:28.586422 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:28.648343 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:28.709106 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:24:46.570758 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:24:46.570758 -> Stimulation mode. Freq: 70[Hz]
+2023-02-15 08:24:47.367743 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:24:47.367743 -> Stimulation mode. Freq: 55[Hz]
+2023-02-15 08:24:48.324109 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:24:48.324109 -> Stimulation mode. Freq: 40[Hz]
+2023-02-15 08:24:49.967569 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:24:49.967569 -> Stimulation mode. Freq: 25[Hz]
+2023-02-15 08:24:51.535907 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:24:51.535907 -> Stimulation mode. Freq: 10[Hz]
+2023-02-15 08:24:52.432702 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:24:52.432702 -> Stimulation mode. Freq: 0[Hz]
+2023-02-15 08:24:52.487796 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-15 08:26:38.748803] 
+2023-02-15 08:26:38.748803 -> Serial comm open mode successfully activated. 
+2023-02-15 08:26:38.748803 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 08:26:39.279769 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:39.341197 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:39.403092 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:39.463452 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:39.527686 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:39.588754 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:39.650777 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:39.714779 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:39.775043 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:39.836583 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:39.898957 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:39.963629 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:40.024792 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:40.087605 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:40.148431 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:40.213203 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:40.273131 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:40.335963 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:40.399539 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:40.456973 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:42.990633 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:26:42.990633 -> Stimulation mode. Freq: 70[Hz]
+2023-02-15 08:26:44.288738 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:26:44.288738 -> Stimulation mode. Freq: 55[Hz]
+2023-02-15 08:26:45.287391 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:26:45.287391 -> Stimulation mode. Freq: 40[Hz]
+2023-02-15 08:26:46.357785 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:26:46.357785 -> Stimulation mode. Freq: 25[Hz]
+2023-02-15 08:26:47.246959 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:26:47.246959 -> Stimulation mode. Freq: 10[Hz]
+2023-02-15 08:26:48.408991 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:26:48.408991 -> Stimulation mode. Freq: 0[Hz]
+2023-02-15 08:26:48.467153 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-15 08:26:52.093175] 
+2023-02-15 08:26:52.093175 -> Serial comm open mode successfully activated. 
+2023-02-15 08:26:52.093175 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 08:26:52.607825 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:52.669564 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:52.731298 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:52.792567 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:52.855303 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:52.917561 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:52.980787 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:53.042771 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:53.105664 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:53.168146 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:53.230111 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:53.292117 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:53.355500 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:53.418557 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:53.481965 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:53.543589 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:53.606683 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:53.669554 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:53.729550 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:53.793253 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:26:56.611245 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:26:56.611245 -> Stimulation mode. Freq: 25[Hz]
+2023-02-15 08:26:57.738086 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:26:57.738086 -> Stimulation mode. Freq: 40[Hz]
+
+ [Log: 2023-02-15 08:27:26.986894] 
+2023-02-15 08:27:26.986894 -> Serial comm open mode successfully activated. 
+2023-02-15 08:27:26.986894 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 08:27:27.511743 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:27.566548 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:27.629667 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:27.696000 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:27.755019 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:27.817614 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:27.881504 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:27.945163 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:28.007772 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:28.069444 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:28.132727 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:28.195574 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:28.257513 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:28.319688 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:28.381701 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:28.445567 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:28.507818 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:28.570729 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:28.633225 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:28.696202 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:44.626574 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:27:44.626574 -> Stimulation mode. Freq: 0[Hz]
+2023-02-15 08:27:44.683998 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-15 08:27:57.220680] 
+2023-02-15 08:27:57.220680 -> Serial comm open mode successfully activated. 
+2023-02-15 08:27:57.220680 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 08:27:57.737693 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:57.799058 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:57.861380 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:57.922482 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:57.985981 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:58.046712 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:58.108615 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:58.171064 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:58.231721 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:58.293570 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:58.355737 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:58.417155 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:58.479646 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:58.542171 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:58.604762 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:58.667457 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:58.731045 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:58.794012 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:58.855325 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:27:58.916383 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:01.401151 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:28:01.401151 -> Stimulation mode. Freq: 70[Hz]
+2023-02-15 08:28:03.519575 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:28:03.519575 -> Stimulation mode. Freq: 55[Hz]
+2023-02-15 08:28:04.911612 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:28:04.911612 -> Stimulation mode. Freq: 40[Hz]
+
+ [Log: 2023-02-15 08:28:20.236971] 
+2023-02-15 08:28:20.236971 -> Serial comm open mode successfully activated. 
+2023-02-15 08:28:20.236971 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 08:28:21.164611 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:21.224276 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:21.287507 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:21.350495 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:21.413496 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:21.474759 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:21.538871 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:21.599468 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:21.662471 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:21.724647 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:21.785789 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:21.848542 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:21.911104 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:21.972745 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:22.034668 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:22.096640 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:22.159934 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:22.221987 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:22.282432 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:22.345517 -> Standby mode activated. Freq: 0[Hz]
+
+ [Log: 2023-02-15 08:28:56.298385] 
+2023-02-15 08:28:56.298385 -> Serial comm open mode successfully activated. 
+2023-02-15 08:28:56.298385 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 08:28:56.813453 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:56.871282 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:56.933408 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:56.995052 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:57.057942 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:57.123175 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:57.184818 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:57.247791 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:57.307536 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:57.371727 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:57.432033 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:57.493513 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:57.555492 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:57.616409 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:57.680837 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:57.743040 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:57.804104 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:57.865547 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:57.926926 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:57.990885 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:28:58.079817 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:28:58.079817 -> Stimulation mode. Freq: 70[Hz]
+2023-02-15 08:28:59.669416 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:28:59.669416 -> Stimulation mode. Freq: 55[Hz]
+2023-02-15 08:29:00.558537 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:29:00.558537 -> Stimulation mode. Freq: 40[Hz]
+
+ [Log: 2023-02-15 08:29:20.884071] 
+2023-02-15 08:29:20.884071 -> Serial comm open mode successfully activated. 
+2023-02-15 08:29:20.884071 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 08:29:21.410682 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:21.464983 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:21.528735 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:21.590886 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:21.653360 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:21.714690 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:21.777295 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:21.838458 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:21.900193 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:21.963434 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:22.026629 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:22.089035 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:22.151529 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:22.213797 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:22.276653 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:22.337646 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:22.400963 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:22.463991 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:22.525954 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:22.587835 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:29:30.275775 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:29:30.275775 -> Stimulation mode. Freq: 70[Hz]
+
+ [Log: 2023-02-15 08:33:09.317692] 
+2023-02-15 08:33:09.317692 -> Serial comm open mode successfully activated. 
+2023-02-15 08:33:09.317692 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 08:33:09.842468 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:09.895415 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:09.958800 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:10.019717 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:10.081660 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:10.142475 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:10.205774 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:10.266346 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:10.327110 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:10.388564 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:10.449696 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:10.511873 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:10.573579 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:10.635370 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:10.698313 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:10.760699 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:10.823835 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:10.885817 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:10.947418 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:11.009025 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:33:15.511418 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:33:15.511418 -> Stimulation mode. Freq: 100[Hz]
+2023-02-15 08:33:46.996367 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:33:46.996367 -> Stimulation mode. Freq: 85[Hz]
+2023-02-15 08:33:48.482376 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:33:48.482376 -> Stimulation mode. Freq: 70[Hz]
+2023-02-15 08:33:49.795479 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:33:49.795479 -> Stimulation mode. Freq: 55[Hz]
+2023-02-15 08:33:51.100360 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:33:51.100360 -> Stimulation mode. Freq: 70[Hz]
+2023-02-15 08:33:51.648264 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:33:51.648264 -> Stimulation mode. Freq: 85[Hz]
+2023-02-15 08:33:52.578658 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:33:52.578658 -> Stimulation mode. Freq: 100[Hz]
+2023-02-15 08:33:53.927549 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:33:53.927549 -> Stimulation mode. Freq: 0[Hz]
+2023-02-15 08:33:53.987653 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-15 08:52:19.485891] 
+2023-02-15 08:52:19.485891 -> Serial comm open mode successfully activated. 
+2023-02-15 08:52:19.485891 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 08:52:20.429315 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:20.483289 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:20.545078 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:20.607414 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:20.670054 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:20.733928 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:20.792171 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:20.854001 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:20.917812 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:20.979167 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:21.040624 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:21.102416 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:21.163478 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:21.226078 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:21.292416 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:21.349325 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:21.412150 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:21.474142 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:21.535322 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:21.597049 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 08:52:23.042424 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:52:23.042424 -> Stimulation mode. Freq: 70[Hz]
+2023-02-15 08:52:24.603787 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:52:24.603787 -> Stimulation mode. Freq: 55[Hz]
+2023-02-15 08:52:26.622216 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 08:52:26.622216 -> Stimulation mode. Freq: 40[Hz]
+
+ [Log: 2023-02-15 09:09:52.159615] 
+2023-02-15 09:09:52.159615 -> Serial comm open mode successfully activated. 
+2023-02-15 09:09:52.159615 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 09:09:52.921028 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:52.977973 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:53.039814 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:53.097943 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:53.161884 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:53.220730 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:53.280408 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:53.341595 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:53.410573 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:53.468583 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:53.537620 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:53.591812 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:53.655315 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:53.715223 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:53.779643 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:53.840725 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:53.903225 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:53.963129 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:54.028171 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:54.091177 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:09:56.352695 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:09:56.352695 -> Stimulation mode. Freq: 70[Hz]
+2023-02-15 09:10:16.616802 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:10:16.616802 -> Stimulation mode. Freq: 85[Hz]
+2023-02-15 09:10:17.732748 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:10:17.732748 -> Stimulation mode. Freq: 100[Hz]
+2023-02-15 09:10:19.451600 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:10:19.451600 -> Stimulation mode. Freq: 0[Hz]
+2023-02-15 09:10:19.517314 -> Serial comm closing mode successfully activated. 
+
+ [Log: 2023-02-15 09:15:11.458865] 
+2023-02-15 09:15:11.458865 -> Serial comm open mode successfully activated. 
+2023-02-15 09:15:11.458865 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 09:15:12.001975 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:15:12.065865 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:15:12.127009 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:15:12.188128 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:15:12.249722 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:15:12.313775 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:15:12.376273 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:15:12.437778 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:15:12.499700 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:15:12.563096 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:15:15.777558 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:15:15.777558 -> Stimulation mode. Freq: 70[Hz]
+2023-02-15 09:15:18.066047 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:15:18.066047 -> Stimulation mode. Freq: 55[Hz]
+2023-02-15 09:15:31.293279 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:15:31.293279 -> Stimulation mode. Freq: 40[Hz]
+2023-02-15 09:15:32.306303 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:15:32.306303 -> Stimulation mode. Freq: 25[Hz]
+
+ [Log: 2023-02-15 09:24:01.367479] 
+2023-02-15 09:24:01.367479 -> Serial comm open mode successfully activated. 
+2023-02-15 09:24:01.367479 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 09:24:01.900155 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:24:01.955518 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:24:02.016297 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:24:02.078531 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:24:02.141751 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:24:02.208547 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:24:02.267432 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:24:02.332433 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:24:02.392671 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:24:02.455522 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:24:03.290435 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:24:03.290435 -> Stimulation mode. Freq: 70[Hz]
+2023-02-15 09:24:13.339546 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:24:13.339546 -> Stimulation mode. Freq: 55[Hz]
+
+ [Log: 2023-02-15 09:26:04.534894] 
+2023-02-15 09:26:04.534894 -> Serial comm open mode successfully activated. 
+2023-02-15 09:26:04.534894 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 09:26:05.118669 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:26:05.177119 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:26:05.242278 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:26:05.299659 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:26:05.366031 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:26:05.427355 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:26:05.489078 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:26:05.549065 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:26:05.611248 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:26:05.673005 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:26:06.384888 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:26:06.384888 -> Stimulation mode. Freq: 70[Hz]
+2023-02-15 09:26:07.484212 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:26:07.484212 -> Stimulation mode. Freq: 55[Hz]
+2023-02-15 09:26:08.239408 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:26:08.239408 -> Stimulation mode. Freq: 40[Hz]
+2023-02-15 09:26:09.231069 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:26:09.231069 -> Stimulation mode. Freq: 25[Hz]
+2023-02-15 09:26:10.066536 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:26:10.066536 -> Stimulation mode. Freq: 40[Hz]
+2023-02-15 09:26:10.827541 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:26:10.827541 -> Stimulation mode. Freq: 55[Hz]
+
+ [Log: 2023-02-15 09:27:37.740089] 
+2023-02-15 09:27:37.740089 -> Serial comm open mode successfully activated. 
+2023-02-15 09:27:37.740089 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 09:27:38.285252 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:27:38.342120 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:27:38.404964 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:27:38.467063 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:27:38.529114 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:27:38.591943 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:27:38.654083 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:27:38.716037 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:27:38.779109 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:27:38.841079 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:27:39.425912 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:27:39.425912 -> Stimulation mode. Freq: 70[Hz]
+2023-02-15 09:27:40.381008 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:27:40.381008 -> Stimulation mode. Freq: 55[Hz]
+2023-02-15 09:27:42.294120 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:27:42.294120 -> Stimulation mode. Freq: 40[Hz]
+
+ [Log: 2023-02-15 09:30:16.094901] 
+2023-02-15 09:30:16.094901 -> Serial comm open mode successfully activated. 
+2023-02-15 09:30:16.094901 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 09:30:17.047400 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:17.109130 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:17.170916 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:17.234605 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:17.295669 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:17.356051 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:17.418386 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:17.480319 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:17.542371 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:17.625658 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:17.683948 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:30:17.683948 -> Stimulation mode. Freq: 70[Hz]
+
+ [Log: 2023-02-15 09:30:27.104407] 
+2023-02-15 09:30:27.104407 -> Serial comm open mode successfully activated. 
+2023-02-15 09:30:27.104407 -> Serial Comm open mode. Freq calculator successfully loaded. 
+2023-02-15 09:30:27.652474 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:27.704968 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:27.767264 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:27.830643 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:27.892608 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:27.954477 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:28.016899 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:28.078186 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:28.141915 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:28.201100 -> Standby mode activated. Freq: 0[Hz]
+2023-02-15 09:30:29.074525 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:30:29.074525 -> Stimulation mode. Freq: 70[Hz]
+2023-02-15 09:30:30.400282 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:30:30.400282 -> Stimulation mode. Freq: 55[Hz]
+2023-02-15 09:30:34.694877 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:30:34.694877 -> Stimulation mode. Freq: 70[Hz]
+2023-02-15 09:30:35.316059 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:30:35.316059 -> Stimulation mode. Freq: 85[Hz]
+2023-02-15 09:30:36.064746 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:30:36.064746 -> Stimulation mode. Freq: 100[Hz]
+2023-02-15 09:30:38.553019 -> Stimulation mode. Freq calculator successfully loaded. 
+2023-02-15 09:30:38.553019 -> Stimulation mode. Freq: 0[Hz]
+2023-02-15 09:30:38.605195 -> Serial comm closing mode successfully activated. 
