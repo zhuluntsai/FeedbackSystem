@@ -12,7 +12,7 @@ eventMessage = ""
 #------------------------------------------
 
 # Parameters for operator---------------------------------------------------------------------------------------
-port = 'COM9'# Serial communication port number
+port = '/dev/cu.usbmodem141301'# Serial communication port number
 baudRate = 115200 # Serial communication baudrate
 minFreq = 10.0 # For setting minimum stimulation , Unit: Hz, This valus should be over 10.0 Hz
 maxFreq = 100.0 # For setting maximum stimulation , Unit: Hz, This valus should be under 100 Hz.
@@ -133,7 +133,8 @@ def StimGenerator(comStatus, mode, sync, dis = minDis-1, tempInput = 0):
                     eventMessage = "Serial comm open mode successfully activated. \n"
                     output = str(now) + " -> " + eventMessage
                     f.write(output)
-        except:
+        except Exception as e:
+            print(e)
             print("Check your port. Default port is COM5.")
             with open("StimLog.txt", "a") as f:
                 eventMessage = "Serial comm open failed. \n"
