@@ -40,8 +40,11 @@ public class GetDistance : MonoBehaviour
         }
         
         // Export the frequency to the log and the stimulator
-        Debug.Log("Stim Frequency: " + stimFreq);
-        log += System.DateTime.Now.ToString("yyyy/MM/dd HH:mm:ss.ff") + " Frequency: " + stimFreq + "\n";
+        stimFreq = System.Math.Round(stimFreq, 2);
+        distance = System.Math.Round(distance, 2);
+        string line = "Frequency: " + stimFreq + ", Distance: " + distance;
+        Debug.Log(line);
+        log += System.DateTime.Now.ToString("yyyy/MM/dd HH:mm:ss.ff") + ", " + line + "\n";
         try
         {
             sp.Write(stimFreq.ToString());
