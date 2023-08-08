@@ -1,49 +1,113 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.IO;
 using System.IO.Ports;
 using System.Threading;
 using UnityEditor.Scripting.Python;
 
 public class GetDistance : MonoBehaviour
 {
-    private string port = "/dev/cu.usbmodem141301";
-    private int baudRate = 115200;
-    private double minFreq = 10;
-    private double maxFreq = 100;
-    private double minDis = 10;
-    private double maxDis = 100;
-    private int delayFlag = 0;
-    private double timeStart = 0.0;
-    private double timeCurrent = 0.0;
-    private double delayDesired = 0.05;
+    public string Port = "/dev/cu.usbmodem144201";
+    public int BaudRate = 115200;
+    public double MinFrequency = 10;
+    public double MaxFrequency = 100;
+    public double MinDistance = 0;
+    public double MaxDistance = 3;
+    public int DelayTime = 50; // ms
+    string LogPath = "StimLog.txt";
+    string log = "";    
 
-    private double slopeA;
-    private double constantB;
+    double slopeA;
+    double constantB; 
+    double stimFreq;
+    SerialPort sp;
 
     public GameObject Cube1;
     public GameObject Cube2;
     public float Distance;
 
-    SerialPort sp;
+    void FrequencyGenerate(double distance)
+    {
+        // Calculate the frequency according to the distance
+        stimFreq = 0.0;
+        if (distance >= MinDistance && distance <= MaxDistance)
+        {
+            stimFreq = slopeA * distance + constantB;
+        }
+        else if (distance < MinDistance || distance > MaxDistance)
+        {
+            stimFreq = 0.0;
+        }
+        
+        // Export the frequency to the log and the stimulator
+        Debug.Log("Stim Frequency: " + stimFreq);
+        log += stimFreq + "\n";
+        try
+        {
+            sp.Write(stimFreq.ToString());
+        }
+        catch (System.Exception e)
+        {
+            Debug.Log(e.Message);
+        }
+    }
     
-    // Start is called before the first frame update
     void Start()
     {
         Debug.Log("start");
-        sp = new SerialPort(port, baudRate);
-        sp.Open();
+
+        // Check the port of the stimulator
+        try
+        {
+            sp = new SerialPort(Port, BaudRate);
+            sp.Open();
+        }
+        catch (System.Exception e)
+        {
+            Debug.Log(e.Message);
+        }
+
+        // Calculate the slope of the frequency
+        slopeA = (MaxFrequency-MinFrequency) / (MinDistance-MaxDistance);
+        constantB = 0.5 * ((MaxFrequency+MinFrequency) - slopeA * (MinDistance+MaxDistance));
+
+        // Export the parameter to the log
+        log += "Port: " + Port + "\n";
+        log += "BaudRate: " + BaudRate + "\n";
+        log += "MinFrequency: " + MinFrequency + "\n";
+        log += "MaxFrequency: " + MaxFrequency + "\n";
+        log += "MinDistance: " + MinDistance + "\n";
+        log += "MaxDistance: " + MaxDistance + "\n";
+        log += "DelayTime: " + DelayTime + "\n";
     }
 
-    // Update is called once per frame
     void Update()
     {
         Distance = Vector3.Distance(Cube1.transform.position, Cube2.transform.position);
         
-        if (Distance <3)
+        FrequencyGenerate(Distance);
+        Thread.Sleep(DelayTime);
+    }
+
+    void OnDestroy()
+    {
+        Debug.Log("Log exported on " + LogPath);
+        
+        // Close the stimulator
+        try
         {
-            Debug.Log(Distance);
-            sp.Write("10");
+            sp.Write("0.0");
+        }
+        catch (System.Exception e)
+        {
+            Debug.Log(e.Message);
+        }
+
+        // Write the log
+        using (StreamWriter writer = new StreamWriter(LogPath))
+        {
+            writer.WriteLine(log);
         }
     }
 }
