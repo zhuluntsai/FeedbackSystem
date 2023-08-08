@@ -4,7 +4,6 @@ using UnityEngine;
 using System.IO;
 using System.IO.Ports;
 using System.Threading;
-using UnityEditor.Scripting.Python;
 
 public class GetDistance : MonoBehaviour
 {
@@ -42,7 +41,7 @@ public class GetDistance : MonoBehaviour
         
         // Export the frequency to the log and the stimulator
         Debug.Log("Stim Frequency: " + stimFreq);
-        log += stimFreq + "\n";
+        log += System.DateTime.Now.ToString("yyyy/MM/dd HH:mm:ss.ff") + " Frequency: " + stimFreq + "\n";
         try
         {
             sp.Write(stimFreq.ToString());
